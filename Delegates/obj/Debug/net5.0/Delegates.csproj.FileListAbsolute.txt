@@ -1,0 +1,16 @@
+/home/jegorjegor/programming/c#/Delegates/Delegates/bin/Debug/net5.0/Delegates
+/home/jegorjegor/programming/c#/Delegates/Delegates/bin/Debug/net5.0/Delegates.deps.json
+/home/jegorjegor/programming/c#/Delegates/Delegates/bin/Debug/net5.0/Delegates.runtimeconfig.json
+/home/jegorjegor/programming/c#/Delegates/Delegates/bin/Debug/net5.0/Delegates.runtimeconfig.dev.json
+/home/jegorjegor/programming/c#/Delegates/Delegates/bin/Debug/net5.0/Delegates.dll
+/home/jegorjegor/programming/c#/Delegates/Delegates/bin/Debug/net5.0/ref/Delegates.dll
+/home/jegorjegor/programming/c#/Delegates/Delegates/bin/Debug/net5.0/Delegates.pdb
+/home/jegorjegor/programming/c#/Delegates/Delegates/obj/Debug/net5.0/Delegates.csproj.AssemblyReference.cache
+/home/jegorjegor/programming/c#/Delegates/Delegates/obj/Debug/net5.0/Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/home/jegorjegor/programming/c#/Delegates/Delegates/obj/Debug/net5.0/Delegates.AssemblyInfoInputs.cache
+/home/jegorjegor/programming/c#/Delegates/Delegates/obj/Debug/net5.0/Delegates.AssemblyInfo.cs
+/home/jegorjegor/programming/c#/Delegates/Delegates/obj/Debug/net5.0/Delegates.csproj.CoreCompileInputs.cache
+/home/jegorjegor/programming/c#/Delegates/Delegates/obj/Debug/net5.0/Delegates.dll
+/home/jegorjegor/programming/c#/Delegates/Delegates/obj/Debug/net5.0/ref/Delegates.dll
+/home/jegorjegor/programming/c#/Delegates/Delegates/obj/Debug/net5.0/Delegates.pdb
+/home/jegorjegor/programming/c#/Delegates/Delegates/obj/Debug/net5.0/Delegates.genruntimeconfig.cache
